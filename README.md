@@ -32,6 +32,19 @@
 
 ---
 
+## 🌐 Job Experience Projects 
+
+As a Full Stack Web Developer :
+- Created & Designed websites from scratch using PHP, CSS, Javascript, Laravel, React, Next.js
+- Created Wordpress themes / plugins from scratch
+- Made WHMCS modules
+- Worked on WHMCS Hooks
+- Increased websites & internal systems performance, accessibility, and best practices
+- Gave websites good ranking on search engines
+- Worked a lot on SEO
+- Used Elementor, Gutenberg, Beaver Builder to build good UI/UX websites, web apps
+- Created & secured RESTful APIs using Node.js/MongoDB/ExpressJS , or Laravel API
+
 ## 🌐 Customers Projects 
 
 - DebbiFit
