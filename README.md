@@ -32,7 +32,7 @@
 
 ---
 
-### 🌐 Customers Projects 
+## 🌐 Customers Projects 
 
 - DebbiFit
 - DebbiBlog
@@ -41,17 +41,18 @@
 - Tarazati
 - Gratteurs
 
-### 🌐 Open-source Projects
+## 🌐 Open-source Projects
 
-# [Javascript Challenges](https://github.com/medredakamal/kam-js-challenges)
-# [Jobs Finder - Javascript](https://github.com/medredakamal/kam-jobsfinder-api)
-# [Blog - Javascript](https://github.com/medredakamal/kam-blog-js)
-# [Leads Manager - Laravel/AJAX](https://github.com/medredakamal/kam-leadsmanager-laravel)
-# [VCard Creator - PHP](https://github.com/medredakamal/kamvcard)
-# [Navbar Style Switch - ReactJS](https://github.com/medredakamal/kam-react-switch-navbar-style)
-# [Auth Login/SignUp/Forgot Password UI - ReactJS](https://github.com/medredakamal/kam-react-auth-ui)
-# [Change Logo Live - Javascript](https://github.com/medredakamal/kam-changelogo-live)
-# [Difference between createElement and using Template literals](https://github.com/medredakamal/kam-js-template-literals)
+### [Change App Theme - Svelte](https://github.com/medredakamal/kam-svelte-changetheme)
+### [Javascript Challenges](https://github.com/medredakamal/kam-js-challenges)
+### [Jobs Finder - Javascript](https://github.com/medredakamal/kam-jobsfinder-api)
+### [Blog - Javascript](https://github.com/medredakamal/kam-blog-js)
+### [Leads Manager - Laravel/AJAX](https://github.com/medredakamal/kam-leadsmanager-laravel)
+### [VCard Creator - PHP](https://github.com/medredakamal/kamvcard)
+### [Navbar Style Switch - ReactJS](https://github.com/medredakamal/kam-react-switch-navbar-style)
+### [Auth Login/SignUp/Forgot Password UI - ReactJS](https://github.com/medredakamal/kam-react-auth-ui)
+### [Change Logo Live - Javascript](https://github.com/medredakamal/kam-changelogo-live)
+### [Difference between createElement and using Template literals](https://github.com/medredakamal/kam-js-template-literals)
 
 
 ---
