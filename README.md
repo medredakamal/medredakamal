@@ -53,6 +53,8 @@ As a Full Stack Web Developer :
 - Mihanago
 - Tarazati
 - Gratteurs
+- JobBoard (Full Stack Web Platform using Laravel)
+- MaritimeAgency (Full Stack Web Platform using Laravel)
 
 ## 🌐 Open-source Projects
 
