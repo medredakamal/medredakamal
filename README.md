@@ -3,7 +3,7 @@
 ## I'm a Senior Full Stack Web Developer , in love with coffee & code ... 
 
 - 🚀 I'm increasing my skills everyday on UI/UX Design, React, Javscript and NodeJS
-- 📖 I'm trying to get an advanced level on : MERN, PHP, Laravel, ExpressJS, MongoDB, Web Design, SEO
+- 📖 I'm trying to get an advanced level on : React, NodeJS, PHP, Laravel, ExpressJS, MongoDB, Web Design, SEO, Wordpress
 - 💪 I have more than 7-8 years on the career, even if it's not necessary to say it, started to push here on Github late (long story)
 - 🤝 I'm looking forward to know people more, engage with companies and help them grow
 
@@ -29,45 +29,6 @@
 
 <br />
 <br />
-
----
-
-## 🌐 Job Experience Projects 
-
-As a Full Stack Web Developer :
-- Created & Designed websites from scratch using PHP, CSS, Javascript, Laravel, React, Next.js
-- Created Wordpress themes / plugins from scratch
-- Made WHMCS modules
-- Worked on WHMCS Hooks
-- Increased websites & internal systems performance, accessibility, and best practices
-- Gave websites good ranking on search engines
-- Worked a lot on SEO
-- Used Elementor, Gutenberg, Beaver Builder to build good UI/UX websites, web apps
-- Created & secured RESTful APIs using Node.js/MongoDB/ExpressJS , or Laravel API
-
-## 🌐 Customers Projects 
-
-- DebbiFit
-- DebbiBlog
-- Automaroc
-- Mihanago
-- Tarazati
-- Gratteurs
-- JobBoard (Full Stack Web Platform using Laravel)
-- MaritimeAgency (Full Stack Web Platform using Laravel)
-
-## 🌐 Open-source Projects
-
-### [Change App Theme - Svelte](https://github.com/medredakamal/kam-svelte-changetheme)
-### [Javascript Challenges](https://github.com/medredakamal/kam-js-challenges)
-### [Jobs Finder - Javascript](https://github.com/medredakamal/kam-jobsfinder-api)
-### [Blog - Javascript](https://github.com/medredakamal/kam-blog-js)
-### [Leads Manager - Laravel/AJAX](https://github.com/medredakamal/kam-leadsmanager-laravel)
-### [VCard Creator - PHP](https://github.com/medredakamal/kamvcard)
-### [Navbar Style Switch - ReactJS](https://github.com/medredakamal/kam-react-switch-navbar-style)
-### [Auth Login/SignUp/Forgot Password UI - ReactJS](https://github.com/medredakamal/kam-react-auth-ui)
-### [Change Logo Live - Javascript](https://github.com/medredakamal/kam-changelogo-live)
-### [Difference between createElement and using Template literals](https://github.com/medredakamal/kam-js-template-literals)
 
 
 ---
